@@ -1,5 +1,3 @@
-//import MoviesAnalyzer from "./index";
-
 class MoviesAnalyzer {
   constructor(movies, users) {
     this.movies = movies;
